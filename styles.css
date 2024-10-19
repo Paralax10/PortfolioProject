@@ -121,7 +121,6 @@ body.projects-page {
     opacity: 0; 
     position: relative;
     animation: fadeIn 0.8s forwards; 
-    /*background-image: url('images/image6.jpg');*/
     background-color: rgb(90, 22, 154); 
     padding: 20px;            
     overflow: hidden;    
@@ -240,7 +239,7 @@ nav a:hover {
         0 0 50px rgba(0, 0, 0, 0.3); 
     position: relative;
     height: 300px; 
-    background-image: url('Images/img1.jpg');
+    background-image: url('Images/Img1.jpg');
     background-size: stretch;
     background-position: center;
     display: flex;
